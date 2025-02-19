@@ -1,2 +1,2 @@
 # FrontEnd-267WED
-Repository fir Front-End
+Repository for Front-End
